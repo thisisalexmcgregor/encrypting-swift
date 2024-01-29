@@ -95,8 +95,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tesseract-one/Sr25519.swift.git",
       "state" : {
-        "revision" : "d611e002653f4538c3df8feb0fa6e5dd59238f45",
-        "version" : "0.1.3"
+        "revision" : "30dd8cdedf32970036a84212112313dbf91f56f0",
+        "version" : "0.2.0"
       }
     },
     {
